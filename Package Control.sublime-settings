@@ -1,23 +1,27 @@
 {
-    "auto_upgrade_last_run": null,
-    "installed_packages": [
-        "Alignment",
-        "AngularJS",
-        "AngularJS Snippets",
-        "Bootstrap 3 Snippets",
-        "Emmet",
-        "Gist",
-        "Git",
-        "GitGutter",
-        "Haml",
-        "HTML-CSS-JS Prettify",
-        "HTML2Haml",
-        "HTMLBeautify",
-        "JsFormat",
-        "JSLint",
-        "LESS",
-        "Package Control",
-        "RubyFormat",
-        "sublime-jslint"
-    ]
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AngularJS Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Haml",
+		"HTML-CSS-JS Prettify",
+		"HTML2Haml",
+		"HTMLBeautify",
+		"JsFormat",
+		"JSHint",
+		"JSLint",
+		"LESS",
+		"Package Control",
+		"RubyFormat",
+		"sublime-jslint",
+		"SublimeLinter"
+	]
 }
